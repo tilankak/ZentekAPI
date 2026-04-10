@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ZentekAPI/ZentekAPI.csproj" />
+  <Project Path="ZentekTest/ZentekTest.csproj" Id="b395c8ff-3de7-40d8-8e9c-e5e4ebdb4a36" />
+</Solution>
