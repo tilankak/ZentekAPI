@@ -13,5 +13,5 @@ This project is a RESTful Web API built using .NET 6+ that provides basic produc
 
 Below is the high-level architecture of the system:
 
-![Architecture Diagram](docs/architecture.svg)
+
 <img width="899" height="700" alt="image" src="https://github.com/user-attachments/assets/1e72cffa-62ab-491c-880a-8225f7ece631" />
